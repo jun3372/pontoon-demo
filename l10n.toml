@@ -1,0 +1,11 @@
+
+basepath = "."
+
+[[includes]]
+    path = "ios.toml"
+
+[[includes]]
+    path = "android.toml"
+
+
+
