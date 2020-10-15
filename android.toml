@@ -107,4 +107,4 @@ branches = [
 
 [[paths]]
   reference = "locales/en-US/android.xml"
-  l10n = "locales/{locale}/android.xml"
+  l10n = "locales/{locale}/**"
